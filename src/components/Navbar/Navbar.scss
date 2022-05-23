@@ -42,6 +42,10 @@
 
         flex-direction: column;
 
+        @media screen and (min-width: 2000px) {
+            margin: 0 3.5rem;
+        }
+
         div {
             width: 5px; 
             height: 5px; 
