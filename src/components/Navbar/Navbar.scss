@@ -17,9 +17,10 @@
     justify-content: flex-start;
     align-items: center;
 
-    img {
+    h1 {
         width: 90px; 
         height: 20px;
+        color: rgb(135, 157, 186);
         
         @media screen and (min-width: 2000px) {
             width: 180px;
