@@ -24,7 +24,9 @@ import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
 import profile from "../assets/profile.png";
-import andres from '../assets/andres-removebg.png';
+import andres from "../assets/andres-removebg.png";
+import memoji from "../assets/andres-memoji.png";
+import newyork from "../assets/new-york.jpeg";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
@@ -62,6 +64,8 @@ export default {
   about04,
   profile,
   andres,
+  newyork,
+  memoji,
   circle,
   logo,
   adidas,

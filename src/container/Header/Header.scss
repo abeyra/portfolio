@@ -31,7 +31,7 @@
     }
 
     @media screen and (max-width: 450px) {
-        padding-top: 6rem 1rem 2rem;
+        padding: 6rem 1rem 2rem;
     }
 }
 
@@ -161,7 +161,7 @@
 
 .app__header-img {
     flex: 1; 
-    height: 100%;
+    height: 60%;
 
     display: flex;
     justify-content: flex-end;
@@ -181,10 +181,14 @@
         bottom: 0; 
         z-index: 0;
         width: 100%;
-        height: 90%;
+        height: 113%;
+
+        @media screen and (max-width: 633px) {
+            height: 108%;
+        }
     }
 
     @media screen and (max-width: 1200px) {
-        margin: 2rem 0;
+        // margin: 2rem 0;
     }
 }
