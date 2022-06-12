@@ -27,6 +27,7 @@ import profile from "../assets/profile.png";
 import andres from "../assets/andres-removebg.png";
 import memoji from "../assets/andres-memoji.png";
 import newyork from "../assets/new-york.jpeg";
+import cv from "../assets/cv.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
@@ -66,6 +67,7 @@ export default {
   andres,
   newyork,
   memoji,
+  cv,
   circle,
   logo,
   adidas,
