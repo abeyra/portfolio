@@ -1,7 +1,6 @@
 import React from 'react'
 import { BsLinkedin, BsGithub } from 'react-icons/bs';
 import {GiNewspaper} from 'react-icons/gi';
-import { images } from '../constants';
 
 const SocialMedia = () => {
   return (
